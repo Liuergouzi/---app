@@ -1,6 +1,7 @@
 
 -------------------------------------------------------------------------------------------------
  * 1.实现截图:
+
 ![1](https://47image.oss-cn-heyuan.aliyuncs.com/github/gxsc/1.png)
 
 ![2](https://47image.oss-cn-heyuan.aliyuncs.com/github/gxsc/2.png)
