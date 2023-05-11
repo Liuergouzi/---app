@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:id="@+id/group_1">
+        <item
+            android:id="@+id/navigation_1"
+            android:icon="@drawable/ic_drawer_set_password"
+            android:title="修改密码" />
+    </group>
+
+    <group android:id="@+id/group_2">
+        <item
+            android:id="@+id/navigation_2"
+            android:icon="@drawable/ic_drawer_phone_icon"
+            android:title="手机号" />
+    </group>
+
+    <group android:id="@+id/group_3">
+        <item
+            android:id="@+id/navigation_3"
+            android:icon="@drawable/ic_drawer_set_pay"
+            android:title="设置支付密码" />
+    </group>
+
+    <group android:id="@+id/group_4">
+        <item
+            android:id="@+id/navigation_4"
+            android:icon="@drawable/ic_drawer_up_pay"
+            android:title="修改支付密码" />
+    </group>
+
+    <group android:id="@+id/group_5">
+        <item
+            android:id="@+id/navigation_5"
+            android:icon="@drawable/ic_drawer_confirm"
+            android:title="实名认证"/>
+    </group>
+
+    <group android:id="@+id/group_6">
+        <item
+            android:id="@+id/navigation_6"
+            android:icon="@drawable/ic_drawer_cache"
+            android:title="清除缓存"/>
+    </group>
+
+
+    <group android:id="@+id/group_7">
+        <item
+            android:id="@+id/navigation_7"
+            android:icon="@drawable/ic_drawer_version"
+            android:title="版本更新"/>
+    </group>
+
+    <group android:id="@+id/group_8">
+        <item
+            android:id="@+id/navigation_8"
+            android:icon="@drawable/ic_drawer_exit"
+            android:title="退出登录"/>
+    </group>
+
+</menu>

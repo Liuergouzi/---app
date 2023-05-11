@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/comfirm/layout/activity_auth.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/comfirm/layout/activity_comfirm.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/comfirm/layout/activity_comfirm_pay.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/comfirm/layout/activity_person.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/crash/layout/crash_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/address_dialog.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/album_dialog.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/album_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/common_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/edit_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/hint_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/hint_single_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/message_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/pay_password_delete_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/pay_password_dialog.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/pay_password_empty_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/pay_password_normal_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/share_dialog.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/share_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/tips_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/update_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/dialog/layout/wait_dialog.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/arrows_bottom_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/balance_style.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/bg_home.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/bg_home_search_bar_gray.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/bg_home_search_bar_transparent.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/button_circle_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/button_layout.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/button_radius.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/checkbox_checked_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/checkbox_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/dialog_hint_style.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/dialog_input_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/dotted_line_view.xml" value="0.138" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/drawer_icon_menu.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/guide_indicator_selected.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_boy.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_camera.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_clean.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_close.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_comfirm_success.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_compound_normal.xml" value="0.1055" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_conment.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_delete.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_fragment_main1.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_home_search.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_love_one.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_love_two.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_main_find_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_main_host_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_main_my_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_main_notice_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_main_put_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_my_fragment_balance.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_phone_big_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_status_error.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_succeed.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_taskpack_1.xml" value="0.138" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_tips_error.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_tips_warning.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_video_volume_mute.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/ic_zfb.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/image_preview_indicator.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/info_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/left_radius.xml" value="0.138" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/login_wechat_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/phone_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/phone_radius.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/radiobutton_checked_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/radiobutton_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/radius_small.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/reboot_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/roll_accent_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/safe_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/share_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/status_order_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/taskpack_style.xml" value="0.138" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/tips_error_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/transparent_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/video_brightness_high_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/video_progress_ball_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/video_progress_bg.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/video_schedule_forward_ic.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/drawable/white_selector.xml" value="0.1655" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/image_look_activity.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/image_preview_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/image_preview_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/image_select_activity.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/image_select_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/tab_item_design.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/image/layout/tab_item_sliding.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/layout/crash_activity.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/login/layout/integers.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/login/layout/login_activity.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/login/layout/password_forget_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/login/layout/password_reset_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/login/layout/register_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/drawerlayout.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/find_fragment.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_fragment.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_fragment_picture.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_pic_fragment.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_recycler_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_tab_item_design.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/home_tab_item_sliding.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/main_activity.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/main_activity_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment_drawer.xml" value="0.12537993920972645" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment_picture.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment_relist.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_fragment_right_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/my_personal_edit_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/myshare_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/notice_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/notice_recycler_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/main/layout/put_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/menu/activity_main_drawer.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/menu/drawer_menu.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/menu/main.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/activity_balance.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/activity_myshare.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/activity_myshare_item.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/activity_taskpack.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/clock_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/drawerlayout.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/myshare_recycler.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/myitem/layout/recycler_item_balance.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/widget/layout/widget_player_view.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/Administrator/Desktop/gxsc/app/src/main/res/widget/layout/widget_status_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

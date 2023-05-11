@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rootview"
+    android:paddingBottom="50dp">
+
+
+
+    <LinearLayout
+        android:id="@+id/recyler_linear1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/recyler_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/recyler_text"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/word"
+            android:textStyle="bold"
+            android:text="此用户太懒了，一句话都不说"
+            android:textSize="18dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pic_click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="@id/recyler_linear1"
+        app:layout_constraintTop_toBottomOf="@id/recyler_linear1"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:id="@+id/recyler_linear2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <ImageView
+                android:id="@+id/recyler_pic1"
+                android:layout_width="80dp"
+                android:layout_height="80dp"/>
+            <ImageView
+                android:id="@+id/recyler_pic2"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toRightOf="@id/recyler_pic1"/>
+            <ImageView
+                android:id="@+id/recyler_pic3"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toRightOf="@id/recyler_pic2"
+                />
+            <TextView
+                android:id="@+id/recyler_pic3_text"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toRightOf="@id/recyler_pic2"
+                android:gravity="center"
+                android:textColor="@color/light_gray"
+                android:textSize="20dp"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/recyler_linear3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="@id/pic_click"
+        app:layout_constraintTop_toBottomOf="@id/pic_click">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/recyler_love"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_love_black"/>
+            <TextView
+                android:id="@+id/recyler_love_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/recyler_conment"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_conment"
+                />
+            <TextView
+                android:id="@+id/recyler_conment_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/recyler_gift"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/ic_delete"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

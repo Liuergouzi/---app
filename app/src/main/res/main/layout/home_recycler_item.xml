@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dp_15"
+    android:paddingBottom="@dimen/dp_30">
+
+    <ImageView
+        android:id="@+id/recyler_pic1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxHeight="@dimen/dp_200" />
+
+    <TextView
+        android:id="@+id/recyler_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:layout_marginTop="@dimen/dp_5"
+        android:fontFamily="@font/word"
+        android:maxLines="2"
+        android:textSize="@dimen/dp_15"
+        android:textStyle="bold"
+        tools:ignore="SpUsage" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_28"
+        android:layout_marginTop="@dimen/dp_5"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/recyler_head"
+            android:layout_width="@dimen/dp_20"
+            android:layout_height="@dimen/dp_20"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dp_28"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/recyler_name"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dp_16"
+                android:layout_marginLeft="@dimen/dp_5"
+                android:fontFamily="@font/word"
+                android:gravity="center"
+                android:textSize="@dimen/dp_12"
+                tools:ignore="SpUsage" />
+
+            <TextView
+                android:id="@+id/recyler_time"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dp_12"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:textSize="@dimen/dp_10"
+                tools:ignore="SpUsage" />
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/recyler_love"
+            android:layout_width="@dimen/dp_20"
+            android:layout_height="@dimen/dp_20"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/dp_25"
+            android:background="@drawable/ic_love_black" />
+
+        <TextView
+            android:id="@+id/recyler_love_text"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dp_33"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"
+            android:textColor="@color/bg_gray4"
+            android:textSize="@dimen/dp_13"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+
+</LinearLayout>
